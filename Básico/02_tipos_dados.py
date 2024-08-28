@@ -1,0 +1,5 @@
+print(22 + 20 + 2000)
+print(1.5 + 4 + 0.5)
+print(True)
+print(False)
+print("Revendo Python!")
